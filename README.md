@@ -8,19 +8,15 @@ DarrelBot is a fun, informal Discord bot created to keep conversations lively an
 
 ### 1. Convo Starter - `$bored`
    - Summons server members to chat when someone is feeling bored.
-   - **Example**: `@everyone GET UR ASSES IN THE SERVER LETS TALK`
 
 ### 2. Gaming Buddies Finder - `$game`
    - Helps gather people for gaming sessions.
-   - **Example**: `@everyone GET UR ASSES IN THE SERVER ANDI WANTS TO PLAY`
 
 ### 3. Outing Planner - `$plan`
-   - Organizes a group outing by summoning members to go out.
-   - **Example**: `@everyone GET UR ASSES IN THE SERVER LETS GO OUT`
+   - Organises a group outing by summoning members to go out.
 
 ### 4. Member Resurrector - `$resurrect <username>`
    - Pings inactive members in a humorous way to encourage them to return to the server.
-   - **Example**: `@username GET UR ASS IN THE SERVER U ANTI SOCIAL PIECE OF SHIT`
 
 ### 5. Random Responses
    - DarrelBot has preset replies when members interact with it.
