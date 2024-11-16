@@ -23,7 +23,7 @@ DarrelBot is a fun, informal Discord bot created to keep conversations lively an
    - **Example**: `@username GET UR ASS IN THE SERVER U ANTI SOCIAL PIECE OF SHIT`
 
 ### 5. Random Responses
-   - DarrelBot has preset replies when members interact with it. Replies like "Nice", "Cool", or more sarcastic ones like "Suck on Deeznuts" will keep everyone on their toes.
+   - DarrelBot has preset replies when members interact with it.
 
 ### 6. Q&A Trivia - `$question` and `$answer`
    - Provides random trivia questions to test your knowledge.
